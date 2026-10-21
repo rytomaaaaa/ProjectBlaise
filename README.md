@@ -2,6 +2,8 @@
 
 **PUBLIC RELEASE v1.0.0 · free · Windows**
 
+![Blaise solving an integral step by step on its board, with the answer checked by calculation](images/math.png)
+
 Blaise is a voice assistant for students that lives on your PC. Say *"Blaise"* and talk:
 
 - **Maths, solved and checked.** Full working on the board, from algebra to differential equations — and every answer is
@@ -13,6 +15,18 @@ Blaise is a voice assistant for students that lives on your PC. Say *"Blaise"* a
 - **Your whole term.** *"Plan my semester from my syllabus"* sets every exam and deadline.
 - **Code together.** A terminal where Blaise writes code and runs it to prove it works.
 - **Your room and your day.** Smart lights (*"chill mode"*, *"focus mode"*), Spotify, calendar, tasks, a morning briefing.
+
+## See it
+
+| Practice problems with proved answers | Code together in the Terminal |
+|---|---|
+| ![Five new practice problems on the board, every answer checked by calculation](images/practice.png) | ![Blaise wrote a dice game, ran it, and shows the output in the Terminal tab](images/terminal.png) |
+
+**Study like the research says** — ask how to study and Blaise ranks the methods by evidence, then coaches you through one:
+
+![Study methods ranked by evidence, with buttons to start active recall or spaced repetition](images/study.png)
+
+*Screenshots show Blaise's real window with demo content.*
 
 ## Download
 
