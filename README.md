@@ -1,6 +1,6 @@
 # Blaise — the study assistant that checks its own work
 
-**PUBLIC RELEASE v4.0.0 · Windows**
+**PUBLIC RELEASE v4.0.1 · Windows**
 
 ![Blaise checking a balanced redox equation and saying it was worked out exactly, not guessed](images/checked.png)
 
@@ -22,6 +22,13 @@ Blaise is a voice assistant for students that lives on your PC. Say *"Blaise"* a
   all from your own records. Nothing is estimated or made up.
 - **A sharper brain and 30 voices.** Better at corrections, dates and deadlines, and plans that clash. You can pick
   Gemini's voices and a calm Butler AI tone, and choose what Blaise calls you.
+
+## Fixed in 4.0.1
+
+- **Typing to Blaise while he's asleep works again:** your message wakes him and he answers it. Before, it woke him
+  but the message itself was lost.
+- **What's new is easier to read:** only the list scrolls, it shows the version names you know (4.0.1, not 7.0.1), and
+  fixes you can see come with a picture of what changed.
 
 ## See it
 
@@ -48,7 +55,7 @@ proofs:
 
 ## Download
 
-1. Open **[Releases](../../releases/latest)** and download **Blaise-4.0.0-Setup.exe** (about 160 MB).
+1. Open **[Releases](../../releases/latest)** and download **Blaise-4.0.1-Setup.exe** (about 160 MB).
 2. Run it. Because Blaise isn't code-signed yet, Windows may show **"Windows protected your PC"**. Click
    **More info → Run anyway**. Updates after that are different: every update is checked against Blaise's own
    signature before it installs.
