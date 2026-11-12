@@ -1,32 +1,32 @@
 # Blaise — the study assistant that checks its own work
 
-**PUBLIC RELEASE v4.1.0 · Windows**
+**PUBLIC RELEASE v5.0.0 · Windows**
 
-![Blaise's home screen: the clock, the eye with its progress rings, and three cards for what's next, the nearest exam and today's flash cards](images/home.png)
+![Blaise checking work on paper: a photo of a worked equation on the board, with the wrong line boxed in red](images/check-my-work.png)
 
 Blaise is a voice assistant for students that lives on your PC. Say *"Blaise"* and talk, or type.
 
-## New in 4.1: a calmer look, virus scans and storage clean-up
+## New in 5.0: he sees your work, and you get good at it
 
-- **A calmer look.** The home screen sits on one centre line: the clock, the eye, and three small cards for what's
-  next, your nearest exam or goal, and today's flash cards. The rings round the eye fill up as you get through today's
-  plan and your cards. The glow and extra shadows are gone.
-- **A chat that reads like a log.** Glass bubbles, all on the left, and Blaise's words write themselves out as he
-  speaks.
-- **A calmer blackboard.** Your question on one line, the steps numbered down a single line, and the answer in one card.
-- **Virus scans.** *"Scan my computer for viruses"*, *"scan my Downloads"* or *"am I protected?"*: Blaise runs Windows
-  Defender for you and tells you what it found. He never changes a security setting.
-- **Storage clean-up.** *"What's taking up space?"* shows your biggest folders and files, old installers, temporary
-  files and the Recycle Bin. Blaise frees space only after you say yes, and files you might want back go to the
-  Recycle Bin.
-- **Easier Settings.** Search them (Ctrl+F), and the sections open and close.
-- **Blaise knows what he can do.** Ask *"can you...?"* and he answers from his real abilities.
+- **Check my work with the camera.** Hold your page up and say *"check my work"*. Blaise reads exactly what's written,
+  says which part he couldn't read instead of guessing, and shows the photo with the first mistake boxed, and why. The
+  camera is off until you turn it on, and a light shows while it's on.
+- **Get good at this kind.** Under every worked answer: how to spot this kind of question, the plan as steps that work
+  on any of them, and three new questions with less help each time, from the first step done for you to one that looks
+  different. Every answer is checked by calculation, and one comes back a few days later to check it stuck.
+- **Blaise at the top of the screen.** One small capsule with his eye in it shows what he's doing, what he's saying and
+  the box you type in. Slide it along the top edge, or bring back the floating eye in Settings.
+- **Hand gestures.** Say *"gesture mode"*: point, pinch to click, drag, scroll, swipe, and move windows with your hand
+  in front of the webcam. Your hand is tracked on your PC; nothing about it is sent anywhere.
+- **Steadier.** Blaise closes much less often, the eye is easier to drag, and making PDFs works with the newest Edge.
+
+![The capsule at the top of the screen: searching YouTube, then Blaise's words](images/capsule.png)
 
 ## See it
 
-| A worked answer, step by step and checked | Course Autopilot: every exam and essay planned |
+| Get good at this kind | A worked answer, step by step and checked |
 |---|---|
-| ![A worked integral on the board: numbered steps down one line and the answer in one card, marked as checked](images/board.png) | ![Goals for a chemistry midterm, a history essay and a maths final, each with steps done and the next step](images/courses.png) |
+| ![Under a worked integral: how to spot it, the plan, and three questions with less help each time](images/get-good.png) | ![A worked integral on the board: numbered steps down one line and the answer in one card, marked as checked](images/board.png) |
 
 **A graphing calculator built in.** Ask for a graph by voice or type it, in 2D or 3D, with limits, integrals and visual
 proofs:
@@ -34,6 +34,11 @@ proofs:
 ![A cubic and its derivative on Blaise's graph, with the turning points marked](images/graph.png)
 
 *Screenshots show Blaise's real window with demo content.*
+
+## From 4.1: a calmer look
+
+- A home screen on one centre line, a chat that reads like a log, a calmer blackboard, virus scans with Windows Defender,
+  storage clean-up that only removes what you say yes to, and searchable Settings.
 
 ## From 4.0: your whole course, run for you
 
@@ -60,7 +65,7 @@ proofs:
 
 ## Download
 
-1. Open **[Releases](../../releases/latest)** and download **Blaise-4.1.0-Setup.exe** (about 160 MB).
+1. Open **[Releases](../../releases/latest)** and download **Blaise-5.0.0-Setup.exe** (about 160 MB).
 2. Run it. Because Blaise isn't code-signed yet, Windows may show **"Windows protected your PC"**. Click
    **More info → Run anyway**. Updates after that are different: every update is checked against Blaise's own
    signature before it installs.
