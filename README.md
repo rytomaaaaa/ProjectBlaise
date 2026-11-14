@@ -9,7 +9,7 @@ Blaise is a voice assistant for students that lives on your PC. Say *"Blaise"* a
 ## New in 6.0.3
 
 - **The pointer light matches the button you see**, instead of drawing a box of a different size.
-- **Settings groups are cards:** a closed group shows its Tools icon, what's inside and how many sections.
+- **Settings groups are cards:** a closed group shows a two-letter tile like the Tools ones, what's inside and how many sections.
 - **Two-step sign-in can be set up again:** its QR code shows properly.
 - **Dots and loaders with some depth:** warm beads that rise and glow, spinners with a glowing tail, and live and
   camera lights set in a ring.
