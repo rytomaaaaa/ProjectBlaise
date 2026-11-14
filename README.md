@@ -1,10 +1,22 @@
 # Blaise — the study assistant that checks its own work
 
-**PUBLIC RELEASE v6.0.1 · Windows**
+**PUBLIC RELEASE v6.0.2 · Windows**
 
 ![Blaise checking work on paper: a photo of a worked equation on the board, with the wrong line boxed in red](images/check-my-work.png)
 
 Blaise is a voice assistant for students that lives on your PC. Say *"Blaise"* and talk, or type.
+
+## New in 6.0.2
+
+- **Hard maths answers sooner:** reading a problem on your screen takes a second or two instead of about 17, and for a
+  hard one Blaise says straight away that he's working it out on the board, then tells you the checked answer.
+- **More reliable hard answers:** the free reasoning models get room to finish, a used-up daily allowance is remembered
+  after a restart, and an answer that can't be checked has to match the value Blaise worked out by calculation.
+- **A clean answer box:** the final answer only, never the brain thinking out loud.
+- **Learning mode that teaches:** "have a go first" holds more reliably, and a new Tutor level gives hints and questions
+  first and a quick check after every answer.
+- **Fixes:** no grey window after clicking the eye while minimized; the voice test isn't answered as if you were
+  talking to Blaise.
 
 ## New in 6.0.1
 
