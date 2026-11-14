@@ -1,10 +1,16 @@
 # Blaise — the study assistant that checks its own work
 
-**PUBLIC RELEASE v6.0.3 · Windows**
+**PUBLIC RELEASE v6.1.0 · Windows**
 
 ![Blaise checking work on paper: a photo of a worked equation on the board, with the wrong line boxed in red](images/check-my-work.png)
 
 Blaise is a voice assistant for students that lives on your PC. Say *"Blaise"* and talk, or type.
+
+## New in 6.1.0
+
+- **Boss battle.** Your next exam becomes a boss. Its health bar is your weakest topics, and its questions are your own mistakes and the flash cards you keep forgetting. Say or type each answer: a right one knocks a chunk off, a wrong one costs one of three hearts and shows where it went wrong. Beat it and those topics count as stronger. Say "start a boss battle", or find it in Tools > Study.
+- **Study duel.** Race a friend on the same questions. Pick a deck and read them the 4-letter code, or type theirs. The same question shows on both screens at once, and whoever answers right first gets the point. First to 5 wins, and what you both missed goes into a "missed in duels" deck for each of you.
+- **Fixes for the Mac.** The words in the island are a proper size again, and a few Windows-only parts (the hand tracker's window, storage clean-up) no longer trip up the Mac version.
 
 ## New in 6.0.3
 
