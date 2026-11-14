@@ -1,10 +1,18 @@
 # Blaise — the study assistant that checks its own work
 
-**PUBLIC RELEASE v6.0.2 · Windows**
+**PUBLIC RELEASE v6.0.3 · Windows**
 
 ![Blaise checking work on paper: a photo of a worked equation on the board, with the wrong line boxed in red](images/check-my-work.png)
 
 Blaise is a voice assistant for students that lives on your PC. Say *"Blaise"* and talk, or type.
+
+## New in 6.0.3
+
+- **The pointer light matches the button you see**, instead of drawing a box of a different size.
+- **Settings groups are cards:** a closed group shows its Tools icon, what's inside and how many sections.
+- **Two-step sign-in can be set up again:** its QR code shows properly.
+- **Dots and loaders with some depth:** warm beads that rise and glow, spinners with a glowing tail, and live and
+  camera lights set in a ring.
 
 ## New in 6.0.2
 
