@@ -1,12 +1,29 @@
 # Blaise — the study assistant that checks its own work
 
-**PUBLIC RELEASE v5.0.0 · Windows**
+**PUBLIC RELEASE v6.0.0 · Windows**
 
 ![Blaise checking work on paper: a photo of a worked equation on the board, with the wrong line boxed in red](images/check-my-work.png)
 
 Blaise is a voice assistant for students that lives on your PC. Say *"Blaise"* and talk, or type.
 
-## New in 5.0: he sees your work, and you get good at it
+## New in 6.0: a much smarter brain
+
+- **Two minds on every hard question.** Each one is worked out separately, at the same time, by models from different
+  AI companies when you've added more keys (Gemini, Groq, NVIDIA, OpenRouter, Claude, OpenAI...). When they disagree, a
+  referee finds the step that went wrong.
+- **A program checks the maths.** For a counting, probability or number puzzle, Blaise writes a tiny program that works
+  the answer out by brute force and runs it safely on your PC. What AI models usually get wrong - letters in a word,
+  which decimal is bigger, weekdays, huge powers - is worked out by code instead.
+- **University and postgraduate maths, computed exactly:** topology (homology, fundamental groups), group theory, Galois
+  groups, residues, ODEs, number theory, Groebner bases, Jordan forms, recurrences, Markov chains, Laplace and Fourier.
+- **Connecting ideas.** *"What if I take the area under this curve?"*, *"is a t-distribution a kind of normal
+  distribution?"*, *"if I double the speed, what happens to the energy?"* - Blaise links it to what you were just
+  talking about and puts the chain on the board with a picture. He knows 267 ideas, from school maths to quantum
+  mechanics, the common mix-ups, and what tells close ideas apart.
+- **Worksheet boards**, more exact calculators (statistics, chemistry, physics, biology, money), and sound from your own
+  computer is no longer answered as if you'd said it.
+
+## From 5.0: he sees your work, and you get good at it
 
 - **Check my work with the camera.** Hold your page up and say *"check my work"*. Blaise reads exactly what's written,
   says which part he couldn't read instead of guessing, and shows the photo with the first mistake boxed, and why. The
