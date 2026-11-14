@@ -1,10 +1,17 @@
 # Blaise — the study assistant that checks its own work
 
-**PUBLIC RELEASE v6.0.0 · Windows**
+**PUBLIC RELEASE v6.0.1 · Windows**
 
 ![Blaise checking work on paper: a photo of a worked equation on the board, with the wrong line boxed in red](images/check-my-work.png)
 
 Blaise is a voice assistant for students that lives on your PC. Say *"Blaise"* and talk, or type.
+
+## New in 6.0.1
+
+- **Logic puzzles are checked by brute force too:** knights and knaves, line-ups that fit the rules, the fewest river
+  crossings. Blaise writes a small program that tries every possibility.
+- **A second check when it matters:** if the checking program and Blaise's reasoning disagree, a model from a
+  different AI company writes a second program, so one buggy program can't mislead him.
 
 ## New in 6.0: a much smarter brain
 
