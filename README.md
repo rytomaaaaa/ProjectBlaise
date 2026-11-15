@@ -1,10 +1,19 @@
 # Blaise — the study assistant that checks its own work
 
-**PUBLIC RELEASE v6.1.0 · Windows**
+**PUBLIC RELEASE v6.1.1 · Windows**
 
 ![Blaise checking work on paper: a photo of a worked equation on the board, with the wrong line boxed in red](images/check-my-work.png)
 
 Blaise is a voice assistant for students that lives on your PC. Say *"Blaise"* and talk, or type.
+
+## New in 6.1.1
+
+- **Much lighter.** Sitting open and idle, Blaise used to keep two or three processor cores busy. Now it's about a fifth of one. Small animations no longer redraw the whole window 144 times a second, the system strip reads your PC without starting PowerShell every few seconds, and Settings opens in under a second.
+- **Long chats stay quick.** Replies used to leave thousands of animated letters behind, so the chat got slower the longer you used it. Hearing you talk and the capsule at the top of the screen now cost a fraction of what they did.
+- **A resting eye.** The eye on the home screen stays still while Blaise is idle, and only turns while he's thinking or speaking.
+- **New loading beads.** Three still, sand-coloured beads show everywhere Blaise is working on something.
+- **The math board fits.** Long equations break at "=" the way you'd write them by hand, and nothing runs off the edge any more. Fractions in the step text are full size.
+- **Definite integrals are checked.** Blaise works out the value itself, makes sure the answer matches where the working ends, and never shows an answer that its own steps contradict.
 
 ## New in 6.1.0
 
