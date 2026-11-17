@@ -1,10 +1,19 @@
 # Blaise — the study assistant that checks its own work
 
-**PUBLIC RELEASE v6.1.1 · Windows**
+**PUBLIC RELEASE v6.2.0 · Windows**
 
 ![Blaise checking work on paper: a photo of a worked equation on the board, with the wrong line boxed in red](images/check-my-work.png)
 
 Blaise is a voice assistant for students that lives on your PC. Say *"Blaise"* and talk, or type.
+
+## New in 6.2.0
+
+- **Lessons like a course.** Say "teach me derivatives" and the lesson runs on the board: what you'll be able to do by the end, the words you'll meet, each part shown, worked through and then tried by you, a recap - and a quick quiz booked in your study tasks a few days later, when it's half forgotten.
+- **Study kits.** Turn a file, a web page or just a topic into a whole kit in about a minute: notes, flash cards you check before they join your deck, a quiz that explains every wrong answer, a written test marked out of 10 with what earns full marks, fill in the blank, a two-voice podcast, Match, a brain dump, a map from memory and picture cards from your own diagrams.
+- **Each subject learned its own way.** Sciences fix the common misconceptions, maths and physics make you choose the method before you solve, history, English and economics get exam questions by command word and an essay coach that never writes it for you, and languages get the most useful words first and spoken sessions where you fix your own mistakes.
+- **A tutor that holds the line.** After a worked answer, Blaise gives you one like it to do on your own, and only that counts. The help fades as you get better and steps back when you slip. Choose how he teaches: step by step, show me, keep it simple, ask me questions, exam ready or a real-world story.
+- **Memory that lasts.** An idea counts as mastered only when you've got it right on three different days. Podcasts, audio summaries and lectures end with three questions from memory, and flash cards you keep missing or mixing up get rewritten or a "what's the difference?" card.
+- **Proof it works.** My progress now leads with the number that predicts the exam - how much you get right on your own, days after you last studied it - and how often "sure" really meant right. And Blaise no longer answers a "hmm" or an "uh".
 
 ## New in 6.1.1
 
