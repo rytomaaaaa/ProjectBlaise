@@ -1,10 +1,16 @@
 # Blaise — the study assistant that checks its own work
 
-**PUBLIC RELEASE v6.3.1 · Windows**
+**PUBLIC RELEASE v6.3.2 · Windows**
 
 ![Blaise checking work on paper: a photo of a worked equation on the board, with the wrong line boxed in red](images/check-my-work.png)
 
 Blaise is a voice assistant for students that lives on your PC. Say *"Blaise"* and talk, or type.
+
+## New in 6.3.2
+
+- **Blaise looks at the pictures you send.** A picture sent in chat or dropped on the window arrived fine, but Blaise tried to search it for words, found none and couldn't say what was in it. Now he looks at it: a photo or screenshot of a maths question is read, then solved.
+- **Found wherever it went.** Pictures you send are found in your study library as well as in Pictures, Desktop, Downloads and Documents, and BMP, TIFF, AVIF and JFIF pictures open too. (iPhone HEIC photos that this PC can't open get a message to send them as JPEG.)
+- **Busy is not the end.** When Google's picture model is busy, Blaise tries another one before asking you to try again in a minute.
 
 ## New in 6.3.1
 
