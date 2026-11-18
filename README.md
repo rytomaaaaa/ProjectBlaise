@@ -1,10 +1,17 @@
 # Blaise — the study assistant that checks its own work
 
-**PUBLIC RELEASE v6.2.0 · Windows**
+**PUBLIC RELEASE v6.3.0 · Windows**
 
 ![Blaise checking work on paper: a photo of a worked equation on the board, with the wrong line boxed in red](images/check-my-work.png)
 
 Blaise is a voice assistant for students that lives on your PC. Say *"Blaise"* and talk, or type.
+
+## New in 6.3.0
+
+- **Your course as a map.** Pick AP Calculus AB, AP Biology, GCSE Maths (AQA) or A-level Chemistry (AQA) and the Courses tab shows every unit, with each idea coloured by your own answers: not started, learning, slipping, familiar or mastered (right on your own on three different days). It says what to study next - or "Fix this first" when something is slipping - and Teach me or Quick check hands it straight to Blaise. Say "I'm taking AP Calculus" or "show my course map".
+- **Blaise finds the gap.** Get a problem wrong and Blaise checks the idea underneath it: a slip on the chain rule is often a gap in derivatives, and another chain-rule explanation won't fix that. A new lesson starts with a two-minute refresher when the idea underneath is shaky.
+- **The Daily 10.** Ten quick questions a day, picked for you and mixed together: flash cards due today, questions from your study kits, mistakes from a day or more ago, yesterday's lesson from memory, the idea underneath what you're stuck on, and one problem to do on your own. Answer first, then see it, then say honestly whether you had it - only answers on your own count. Cards go back into your deck's schedule, and a streak counts the days you finish. Say "start my Daily 10", or yes when the morning briefing offers it.
+- **More ideas Blaise knows.** 25 new ideas in Blaise's map of how things connect - implicit differentiation, related rates, L'Hopital's rule, osmosis, meiosis, standard form, bonding and more - each linked to what it builds on.
 
 ## New in 6.2.0
 
