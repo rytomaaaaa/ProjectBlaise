@@ -1,10 +1,17 @@
 # Blaise — the study assistant that checks its own work
 
-**PUBLIC RELEASE v6.3.0 · Windows**
+**PUBLIC RELEASE v6.3.1 · Windows**
 
 ![Blaise checking work on paper: a photo of a worked equation on the board, with the wrong line boxed in red](images/check-my-work.png)
 
 Blaise is a voice assistant for students that lives on your PC. Say *"Blaise"* and talk, or type.
+
+## New in 6.3.1
+
+- **Any picture works.** Phone photos over 3 MB used to be refused, and so were GIF, BMP, TIFF and AVIF files. Now Blaise turns them the right way up and makes them a smaller JPEG, whether you attach them in chat, add them to your study library or put them in a study kit's picture cards. The graph's "picture of an equation" button takes any picture too. iPhone HEIC photos that this PC can't open get a clear message: send it as a JPEG.
+- **Practice problems are made again.** Asking for practice problems always ran out of time before the maths model finished. Blaise now waits for it and makes three by default, each answer still checked by calculation.
+- **Side by side lines up.** The labels over each half sit just under the tabs - never on top of them - with even 4px gaps above and below, and a tab's card starts 4px under the tabs.
+- **A cleaner card editor.** Pointing at "Add or delete cards" no longer lights up a box around the whole section.
 
 ## New in 6.3.0
 
