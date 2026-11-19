@@ -1,10 +1,21 @@
 # Blaise — the study assistant that checks its own work
 
-**PUBLIC RELEASE v6.3.2 · Windows**
+**PUBLIC RELEASE v6.4.0 · Windows**
 
 ![Blaise checking work on paper: a photo of a worked equation on the board, with the wrong line boxed in red](images/check-my-work.png)
 
 Blaise is a voice assistant for students that lives on your PC. Say *"Blaise"* and talk, or type.
+
+## New in 6.4.0
+
+- **A physics studio.** Every physics simulation fills its tab, with a tool rail. Record runs into a notebook and Blaise fits the graph: line, power, quadratic or exponential, or plot against √x, x² or 1/x. A pendulum gives you g with its uncertainty. There's a stopwatch on simulation time, a live motion graph, the ghost of your last run, and real-lab mode (three tries with measurement error and error bars). Challenge mode gives you a target to hit with the sliders. Prediction comes first: say what you think, then run it.
+- **An anatomy practical.** Name the glowing part (small typos are fine), click the part asked for, or say where it is: above or below, left or right. You see it from a different side each time. Show only one part or hide it. Guided tours follow a bite of food, a breath of air, blood's round trip and nerve signals, one stop at a time, then test you on those parts.
+- **Chemistry you do.** "Balance it yourself": you set the numbers and the atom counts follow, with a hint when you're stuck. "Limiting reagent": predict what runs out, then mix. In Equilibrium, every change holds still until you predict which way the position shifts from Q and K, with a Q-vs-K gauge. The periodic table has warmer colours and a molecule search.
+- **DNA labs.** Mutate a gene and predict silent, missense, nonsense or frameshift before seeing the two proteins. Gel electrophoresis: a crime scene or a paternity case, where you predict the match and then run the gel. PCR: choose the primers (there are traps), predict the copies, and watch them double and level off.
+- **Mistakes come back.** What you get wrong in the labs goes into your learner record and returns in the Daily 10.
+- **Easier everywhere.** Settings open on what you change most and save as you go, with Undo. The tab strip fits any number of tabs. Flash cards show how many are due, lessons sit on the board, and course units show a progress bar. Work it out names the rule a wrong line broke. Graphs offer starters. Ctrl+K has "New note". Text help coaches you before rewriting and keeps a draft history.
+- **Warm colours throughout.** Cold white text is now the warm cream of Blaise's theme.
+- **Fixes.** Picture reading falls back to another model when Gemini is busy. Updates download quietly and say "Restart to update". Restart works from folders with spaces in their names.
 
 ## New in 6.3.2
 
