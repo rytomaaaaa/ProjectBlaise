@@ -1,10 +1,18 @@
 # Blaise — the study assistant that checks its own work
 
-**PUBLIC RELEASE v6.4.0 · Windows**
+**PUBLIC RELEASE v6.4.1 · Windows**
 
 ![Blaise checking work on paper: a photo of a worked equation on the board, with the wrong line boxed in red](images/check-my-work.png)
 
 Blaise is a voice assistant for students that lives on your PC. Say *"Blaise"* and talk, or type.
+
+## New in 6.4.1
+
+- **The Physics Lab shows what it teaches.** In Collision, the rolling ball used to stop before it reached the other one, because floor friction acted like sliding friction. Now it rolls, and the hit swaps the speeds. The free-fall balls start with their bottoms level, so without air they really do land together. Each Predict first answer comes when the thing happens, with the landing times and speeds from the board.
+- **Know how high you drop it.** There's a height ruler up the side, and balls snap to 0.5 m (hold Shift to place one freely). While you place a ball, a guide line shows its height. "Drop from __ m" drops at an exact height, and every ball shows where it was dropped from and its time to land.
+- **Smoother and clearer.** Motion moves in even steps, balls are shaded with shadows, fading trails and velocity arrows, and the room fills the whole canvas. "Explain this" and "Ask Blaise" tell Blaise everything on the bench.
+- **Explanations that match.** An explanation appears on screen straight away, and Blaise reads that same text out loud instead of making up his own. The quick cloud models go first, so you no longer wait for a slow model on your computer.
+- **Tabs.** The × sits at the tab's edge, switching tabs no longer flickers, and the lit tab's glow isn't cut off.
 
 ## New in 6.4.0
 
