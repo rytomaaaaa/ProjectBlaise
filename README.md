@@ -1,10 +1,18 @@
 # Blaise — the study assistant that checks its own work
 
-**PUBLIC RELEASE v6.4.2 · Windows**
+**PUBLIC RELEASE v6.4.3 · Windows**
 
 ![Blaise checking work on paper: a photo of a worked equation on the board, with the wrong line boxed in red](images/check-my-work.png)
 
 Blaise is a voice assistant for students that lives on your PC. Say *"Blaise"* and talk, or type.
+
+## New in 6.4.3
+
+- **One clear first step.** Getting your free Gemini key now starts with one big "Get my free key" button. It opens Google AI Studio; there are just three short steps.
+- **Blaise shows he's waiting.** While you copy your key in Google, a line in Blaise says he's waiting for it. When you come back he picks the key up by himself and checks it with Google. If you came back without copying it, he tells you which button to press.
+- **Pasting is one click away.** "Paste a key myself" opens the box, and a pasted key is checked straight away - no button to press.
+- **Help for the common snags.** "Having trouble?" covers the Google page not opening, nothing happening after copying, the free service not being available in your country, the free daily limits, and where your key is kept.
+- **Fix:** a copied key that didn't work no longer stops Blaise watching - copy a new one and he tries again.
 
 ## New in 6.4.2
 
