@@ -1,10 +1,16 @@
 # Blaise — the study assistant that checks its own work
 
-**PUBLIC RELEASE v6.4.1 · Windows**
+**PUBLIC RELEASE v6.4.2 · Windows**
 
 ![Blaise checking work on paper: a photo of a worked equation on the board, with the wrong line boxed in red](images/check-my-work.png)
 
 Blaise is a voice assistant for students that lives on your PC. Say *"Blaise"* and talk, or type.
+
+## New in 6.4.2
+
+- **No more popping up out of nowhere.** Blaise used to open by himself, for example with the morning briefing at 7:30 or late at night. Now what he wants to tell you on his own is a quiet notification, and he says it the next time you talk to him. If you liked the old way, turn on "Let Blaise open and talk on his own" in Settings.
+- **Quiet hours.** From 10 pm to 8 am he says nothing on his own at all. Alarms, timers and phone calls still ring. You can switch quiet hours off in Settings.
+- **More like a real conversation.** When people are talking around him, Blaise answers only when you're talking to him, and stays quiet when you're talking to someone else. "Answer only when I'm talking to Blaise" in Settings turns this off.
 
 ## New in 6.4.1
 
