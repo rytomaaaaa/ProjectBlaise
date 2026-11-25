@@ -1,10 +1,17 @@
 # Blaise — the study assistant that checks its own work
 
-**PUBLIC RELEASE v6.5.0 · Windows**
+**PUBLIC RELEASE v6.5.1 · Windows**
 
 ![Blaise checking work on paper: a photo of a worked equation on the board, with the wrong line boxed in red](images/check-my-work.png)
 
 Blaise is a voice assistant for students that lives on your PC. Say *"Blaise"* and talk, or type.
+
+## New in 6.5.1
+
+- **3D models on the board.** Ask for something in 3D - a horse, a fox, a fire truck, a burger, a sofa - and it's on the board straight away to turn round and zoom. Animals walk, gallop and eat. There are 384 free models (animals, vehicles, food and furniture), and each one downloads only the first time you ask for it, so the app stays the same size.
+- **The right 3D tool.** A 3D heart, brain or skeleton opens the Anatomy body, DNA opens Biomolecules and a molecule opens Chemistry. Anything without a model gets a real photo, and Blaise says plainly that it's a photo.
+- **Piano, chess and the cube work first time,** and vectors and the graph they sit on are drawn as one picture.
+- **The part you don't get.** Say "I don't get this bit" or tap the board, and that part is broken into smaller steps on the same board. Lessons draw each part straight away, so Blaise starts talking sooner.
 
 ## New in 6.5.0
 
