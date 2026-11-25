@@ -1,10 +1,19 @@
 # Blaise — the study assistant that checks its own work
 
-**PUBLIC RELEASE v6.4.3 · Windows**
+**PUBLIC RELEASE v6.5.0 · Windows**
 
 ![Blaise checking work on paper: a photo of a worked equation on the board, with the wrong line boxed in red](images/check-my-work.png)
 
 Blaise is a voice assistant for students that lives on your PC. Say *"Blaise"* and talk, or type.
+
+## New in 6.5.0
+
+- **Blaise draws while he explains.** Ask him to explain, teach or solve something and it goes on a board line by line, in step with what he's saying - arrows, graphs, worked steps, timelines, probability trees, cause and effect, energy bars, particles, and real pictures with their parts labelled.
+- **Checked before it's drawn.** Every number, sum, probability and energy total on the board is worked out by Blaise's own maths first, so what you see and what he says are right. A line that's wrong is never drawn.
+- **It's a conversation.** Start talking and the board waits for you. Tap anything on it to ask about that bit. Follow-ups like "and uphill?" build on the same board.
+- **Models for anything.** A 3D Rubik's cube that turns as he says each move, a piano keyboard that shows the notes and fingers for any scale or chord, and a chess board that only ever plays legal moves.
+- **Fast.** Popular questions are instant, and new ones start drawing in about a second.
+- **Lessons and "Explain this" use the board,** and the Physics studio has new scenes for adding vectors and motion graphs.
 
 ## New in 6.4.3
 
