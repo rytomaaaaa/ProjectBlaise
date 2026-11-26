@@ -1,10 +1,21 @@
 # Blaise — the study assistant that checks its own work
 
-**PUBLIC RELEASE v6.5.1 · Windows**
+**PUBLIC RELEASE v7.0.0 · Windows**
 
 ![Blaise checking work on paper: a photo of a worked equation on the board, with the wrong line boxed in red](images/check-my-work.png)
 
 Blaise is a voice assistant for students that lives on your PC. Say *"Blaise"* and talk, or type.
+
+## New in 7.0.0
+
+- **Teach it back.** After a lesson on the Teaching Board, say "let me explain it" and teach it to Blaise as if he were the student. As you talk, your explanation goes on the board step by step: what's right gets a tick, what's wrong is crossed out with the fix, what's vague is marked, and what you left out shows as a dashed gap. He asks one question about the biggest gap, and the shaky ideas come back in tomorrow's Daily 10. Explaining something yourself is one of the best-proven ways to learn it.
+- **Exam countdown.** Tell Blaise when your exam is ("my chemistry exam is on 12 December"). The countdown is on your home screen with how many of the course's ideas are solid, the Daily 10 leans toward that course's weak ideas in the last month, and each week Blaise offers a timed mock paper with his help switched off - because only work you do on your own predicts the exam.
+- **My week in Blaise.** Ask for your week and get a picture to save or share: your Daily 10 streak, answers right on your own, what you remembered days later and ideas solid - every number from your own answers, nothing estimated.
+- **Waking up.** If "Blaise, wake up" nearly worked, say it again straight away: the second try needs less. Or press **Ctrl+Alt+Enter** anywhere to talk, with no wake word at all (Ctrl+Alt+K if another program uses it).
+- **No more searching in circles.** A piano, a chess board, a Rubik's cube or a 3D animal goes straight on the board, and if Blaise can't do something he says so plainly. The maths models that answer fastest go first, and a service that keeps failing is rested instead of tried again and again.
+- **Your study library takes far more.** Old Word (.doc) and PowerPoint (.ppt) files, Excel and OpenDocument spreadsheets, ePub books, notebooks, code and subtitle files, locked PDFs that open without a password, and big scanned PDFs, up to 60 MB. PDFs made on a Mac or with several fonts now read properly, and anything Blaise can't read gets a plain "do this instead".
+- **What went wrong lately.** Settings > About lists anything that quietly didn't work - a file that wouldn't go in, a tool that broke or took too long, the voice not starting. It never keeps what you said or what's in your files, and "Send to us" sends it only when you press it.
+- **A calmer, clearer look.** The top bar says what Blaise is doing and how to start, the empty chat offers three ways to begin, home tiles all read the same way (a label, one number, one action), answer cards share one quiet heading style, and buttons say what they do. Buttons that did nothing useful are gone.
 
 ## New in 6.5.1
 
