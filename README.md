@@ -1,10 +1,21 @@
 # Blaise — the study assistant that checks its own work
 
-**PUBLIC RELEASE v7.0.0 · Windows**
+**PUBLIC RELEASE v8.0.0 · Windows**
 
 ![Blaise checking work on paper: a photo of a worked equation on the board, with the wrong line boxed in red](images/check-my-work.png)
 
 Blaise is a voice assistant for students that lives on your PC. Say *"Blaise"* and talk, or type.
+
+## New in 8.0.0
+
+- **My PC, in 3D.** Blaise builds a 3D model of your own computer from what Windows reports: your real processor, motherboard, graphics card, every memory stick in its slot (and the empty ones), and each drive. Hover a part for its name, click it to learn what it does and what yours is, and pull the whole thing apart. The processor, graphics card and memory glow with how busy they are. Parts Windows never reports - the case, power supply, cooler and fans - are drawn see-through and labelled "typical", so nothing is made up.
+- **What's running?** Every program using your PC, in plain words and biggest first - "Microsoft Defender: Windows' antivirus, scanning files as they're opened" - with its memory and processor use. Point at one and the part it uses most lights up.
+- **Why is it slow?** Blaise watches for ten seconds before blaming anything, then names the cause (memory full, the drive or processor flat out, a part running hot) with the programs behind it. Any fix - closing a program, clearing old temporary files - is a button that says exactly what will happen and asks first. Windows, your antivirus and the program you're in are never offered.
+- **Can my PC run it?** Ask about a game or app. Blaise reads its official requirements (from Steam, or the publisher's page for Minecraft, Fortnite, Valorant, League of Legends and Roblox), compares them part by part with your PC, and tells you whether it runs well, runs on lower settings, or which part falls short - with the source linked. No requirements found means no made-up numbers.
+- **The PC lab.** Build a PC from a shelf of parts - each one is checked as it goes in (socket, memory type, slots, case size, power supply watts) with a plain reason when it doesn't fit, and a bottleneck check when it's done. Or start from a copy of your own PC and try an upgrade without touching the real one. Practise a job first: adding memory, an NVMe drive, a graphics card or cleaning the dust, step by step on your own model.
+- **Sheet music.** Open a PDF, a photo of a page, or a MusicXML, MIDI, MuseScore or ABC file, and Blaise plays it on a real grand piano with the playing bar lit and the keys shown. Slow it to 50% or 75%, play one hand while the other plays quietly underneath, or loop a bar. Tempo and time changes are followed exactly. A page read from a PDF or a photo is always shown next to what Blaise read, so you can fix a note before anything plays.
+- **Practise with me.** Blaise listens through your microphone while you play, follows along, rings wrong and missed notes on the page and underlines rushed or dragged bars - then the hard bars come back in tomorrow's Daily 10, and your practice shows on your My week card.
+- **Hum it.** Hum or sing a tune and Blaise writes it down: the notes, the rhythm and the key. Fix a note, save it, print it as a PDF, or open it in the player.
 
 ## New in 7.0.0
 
